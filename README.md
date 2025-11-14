@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Faisal</h1>
 <h3 align="center">🚀 Passionate Front-End Developer</h3>
-<!-- <h3>| Web & Mobile Enthusiast</h3> -->
+<!-- <h3> | Web & Mobile Enthusiast</h3> -->
 
 <p align="center">
   <a href="https://faisal-rahman.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" /></a>
@@ -20,10 +20,19 @@ Currently diving deep into **Next.js** and **TypeScript**, with plans to master 
 
 ### 🛠️ Tech Stack
 
-- 💻 **Languages:** JavaScript, TypeScript, HTML, CSS  
-- ⚛️ **Front-End:** React, Next.js, Tailwind CSS  
-- 🔧 **Back-End:** Node.js, Express.js  
-- 🗄️ **Database:** MongoDB, Firebase  
+<p align="start">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+  <!-- <br/> -->
+  <!-- Front-End -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <!-- <br/> -->
+  <!-- Back-End -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <!-- <br/> -->
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
 
 ---
 
