@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Faisal</h1>
 <h3 align="center">🚀 Passionate Front-End Developer</h3>
-<!-- <h3> | Web & Mobile Enthusiast</h3> -->
 
 <p align="center">
   <a href="https://faisal-rahman.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" /></a>
@@ -23,13 +22,10 @@ Currently diving deep into **Next.js** and **TypeScript**, with plans to master 
 <p align="start">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-  <!-- <br/> -->
   <!-- Front-End -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-  <!-- <br/> -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> React Native
   <!-- Back-End -->
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <!-- <br/> -->
   <!-- Database -->
   <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
@@ -38,8 +34,8 @@ Currently diving deep into **Next.js** and **TypeScript**, with plans to master 
 
 ### 📚 Currently Learning
 
-- 📱 React Native
-- 🔥 Next.js & TypeScript (self learning & waiting for april enrollment)
+- 📱 React Native  
+- 🔥 Next.js & TypeScript (self-learning & waiting for April enrollment)
 
 ---
 
@@ -49,23 +45,16 @@ Currently diving deep into **Next.js** and **TypeScript**, with plans to master 
 |--------|-------------|------|
 | 📰 **NewsWave** | A sleek news aggregator with dynamic content rendering | [GitHub](https://github.com/Faisalm1400/NewsWave) |
 | 🎉 **DevEvent** | A modular event platform with rich data and UI | [GitHub](https://github.com/Faisalm1400/DevEvent) |
+| 🐾 **Pokedex** | Interactive Pokémon catalog built with **React Native** for mobile devices | [GitHub](https://github.com/Faisalm1400/Pokedex) |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faisalm1400&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faisalm1400&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisalm1400&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faisalm1400&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+  <img alt="Faisal's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faisalm1400&theme=dracula" />
+  <img alt="Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faisalm1400&theme=dracula" />
+  <img alt="Top Repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faisalm1400&theme=dracula" />
 </p>
 
 ---
@@ -84,5 +73,3 @@ Currently diving deep into **Next.js** and **TypeScript**, with plans to master 
 
 - 🔗 [Portfolio Website](https://faisal-rahman.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/faisal-rahman-a0922938a/)  
-
----
