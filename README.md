@@ -38,8 +38,8 @@ Currently diving deep into **Next.js** and **TypeScript**, with plans to master 
 
 ### 📚 Currently Learning
 
-- 🔥 Next.js & TypeScript  
-- 📱 React Native (coming soon!)  
+- 📱 React Native
+- 🔥 Next.js & TypeScript (self learning & waiting for april enrollment)
 
 ---
 
